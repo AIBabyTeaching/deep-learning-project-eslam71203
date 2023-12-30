@@ -1,4 +1,4 @@
-# Fruit and Vegetable Image Recognition
+# Fruit and Vegetable Classification  
 
 ## Overview
 This project focuses on building a deep learning model for recognizing and classifying images of various fruits and vegetables. The goal is to create a system that can identify different food items from images, enabling applications such as recipe recommendation based on captured photos.
