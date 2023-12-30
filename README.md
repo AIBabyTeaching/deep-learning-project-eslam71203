@@ -1,9 +1,4 @@
 # Fruit-and-vegetable-classification-using-MobilNet
-Certainly! Below is an updated version of your README.md file, including the Flask API section. Please modify it based on your preferences and any additional information you want to provide:
-
-```markdown
-# Fruit and Vegetable Image Recognition
-
 ## Overview
 This project focuses on building a deep learning model for recognizing and classifying images of various fruits and vegetables. The goal is to create a system that can identify different food items from images, enabling applications such as recipe recommendation based on captured photos.
 
@@ -15,22 +10,17 @@ The dataset was collected by scraping images from Bing Image Search for the purp
 
 ## Getting Started
 ### Prerequisites
-- Python (3.x)
+- Python (3.11)
 - TensorFlow
 - NumPy
 - Matplotlib
 - Pandas
 - Flask
 
-### Installation
-```bash
-pip install -r requirements.txt
-```
-
 ### Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/fruit-and-vegetable-image-recognition.git
+   git clone https://github.com/Islam Nasser Saeed/fruit-and-vegetable-image-recognition.git
    ```
 
 2. Change to the project directory:
@@ -84,7 +74,7 @@ Ensure to update the API endpoint and adjust the code based on your specific pro
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
-- Dataset source: [Your Dataset Source]
+- Dataset source: https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition
 ```
 
 Feel free to customize and extend this template based on your project specifics. If you have any specific information you'd like to add or modify, please do so accordingly.
